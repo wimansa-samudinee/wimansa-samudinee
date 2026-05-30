@@ -1,9 +1,9 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=👋Hi+I'm+Wimansa+Samudinee;Welcome+to+my+GitHub!;Aspiring+DevOps+%26+MLOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=👋Hi+I'm+Wimansa+Samudinee;Welcome+to+my+GitHub!;Aspiring+DevOps" alt="Typing SVG" />
 </h3>
 
 
-<h3 align="center">Software Engineering Student | Focus on DevOps, MLOps & Web Security | Interested in Full Stack </h3>
+<h3 align="center">Software Engineering Student | Focus on DevOps & Web Security | Interested in Full Stack </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wimansa2002&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wimansa2002" />
@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a **Software Engineering Student** passionate about system reliability and automation.
-- 🌱 Driven by the world of **DevOps & MLOps** - bridging the gap between AI models and production.
+- 🌱 Driven by the world of **DevOps** - bridging the gap between AI models and production.
 - ⚙️ Skilled in **Automated Testing** (Selenium, NUnit, POM) and software quality management.
 - 🔒 Actively exploring **Web Security & Penetration Testing** (Vulnerability scanning, DevSecOps).
 - 🚀 Aiming to build, deploy, and secure robust, scalable AI infrastructure.
