@@ -1,9 +1,9 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=👋Hi+I'm+Wimansa+Samudinee;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=👋Hi+I'm+Wimansa+Samudinee;Welcome+to+my+GitHub!;Aspiring+DevOps+%26+MLOps+Engineer" alt="Typing SVG" />
 </h3>
 
 
-<h3 align="center">IT Student | Aspiring Software Engineer | Interested in Full Stack & DevOps</h3>
+<h3 align="center">Software Engineering Student | Focus on DevOps, MLOps & Web Security | Interested in Full Stack </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wimansa2002&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wimansa2002" />
@@ -14,13 +14,14 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm an **IT Student** passionate about technology
-- 🌱 I'm currently learning **MERN Stack**
-- 💼 Exploring opportunities in **Full Stack Development**
-- 🚀 Interested in **DevOps** and cloud technologies
+- 🎓 I'm a **Software Engineering Student** passionate about system reliability and automation.
+- 🌱 Driven by the world of **DevOps & MLOps** - bridging the gap between AI models and production.
+- ⚙️ Skilled in **Automated Testing** (Selenium, NUnit, POM) and software quality management.
+- 🔒 Actively exploring **Web Security & Penetration Testing** (Vulnerability scanning, DevSecOps).
+- 🚀 Aiming to build, deploy, and secure robust, scalable AI infrastructure.
 - 📫 Reach me at **nadeerasamudinee@gmail.com**
 - ⚡ Fun fact: **Call me Wima**
-- 🎯 2025 Goals: Build impactful projects and contribute to open source
+- 🎯 2026 Goals: Master CI/CD pipelines, containerization, and automated MLOps workflows.
 
 <br/>
 
@@ -30,14 +31,13 @@
 
 <div align="center">
 
-#### 🧠 Programming Languages:
+#### 🧠 Programming & Scripting:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PHP" width="40" height="40" />
-  
 </p>
 
 #### 🎨 Frontend Technologies:
@@ -48,36 +48,32 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
 </p>
 
-#### ⚙️ Backend Technologies:
+#### ⚙️ Automation, DevOps & Security Tools:
 <p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/394174/github.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+</p>
+
+#### 🗄️ Databases & Backend:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
 </p>
 
-#### 🗄️ Databases:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-</p>
+
 
 #### 🔧 Tools & Platforms:
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/394174/github.svg" alt="github" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="40" height="40" />
 </p>
 
 </div>
 
 ---
-
 ### 📊 GitHub Stats
-
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wimansa2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wimansa2002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wimansa2002&theme=tokyonight&hide_border=true" alt="wimansa2002" />
@@ -92,23 +88,12 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wimansa2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wimansa2002&theme=tokyonight" alt="Profile Summary" />
-</div> -->
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wimansa2002&theme=tokyonight" alt="Most Used Languages Bar" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wimansa2002&theme=tokyonight" alt="Repos per Language" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wimansa2002&theme=tokyonight" alt="Productive Time" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wimansa2002&theme=tokyonight" alt="Stats" width="400"/>
-</div> -->
-
-
 ---
-
 
 ### 🌐 Connect with Me
 
@@ -135,6 +120,8 @@
 
 <p align="center">
   💙 Thanks for visiting! Let's build something amazing together! 💙
+</p>
+
 </p>
 
 
