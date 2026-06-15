@@ -19,7 +19,7 @@
 - ⚙️ Skilled in **Automated Testing** (Selenium, NUnit, POM) and software quality management.
 - 🔒 Actively exploring **Web Security & Penetration Testing** (Vulnerability scanning, DevSecOps).
 - 🚀 Aiming to build, deploy, and secure robust, scalable AI infrastructure.
-- 📫 Reach me at **nadeerasamudinee@gmail.com**
+- 📫 Reach me at **wimansasamudinee@gmail.com**
 - ⚡ Fun fact: **Call me Wima**
 - 🎯 2026 Goals: Master advanced MLOps pipelines while building impactful Full Stack projects.
 
