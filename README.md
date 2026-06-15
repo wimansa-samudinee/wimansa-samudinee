@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineering Student @USJ | Focus on MLOps | Interested in Full Stack </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wimansa2002&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wimansa2002" />
+  <img src="https://komarev.com/ghpvc/?username=wimansa-samudinee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wimansa-samudinee" />
 </p>
 
 
@@ -76,7 +76,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wimansa2002&theme=tokyonight&hide_border=true" alt="wimansa2002" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wimansa-samudinee&theme=tokyonight&hide_border=true" alt="wimansa-samudinee" />
 </div>
 
 ---
@@ -85,12 +85,12 @@
 
 <div align="center">
   <h3>Most Used Languages</h3>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wimansa2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wimansa-samudinee&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wimansa2002&theme=tokyonight" alt="Most Used Languages Bar" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wimansa2002&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wimansa-samudinee&theme=tokyonight" alt="Most Used Languages Bar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wimansa-samudinee&theme=tokyonight" alt="Repos per Language" />
 </div>
 
 ---
@@ -107,7 +107,7 @@
   <a href="mailto:nadeerasamudinee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/wimansa2002" target="_blank">
+  <a href="https://github.com/wimansa-samudinee" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
