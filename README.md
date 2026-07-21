@@ -11,7 +11,7 @@
   </picture>
 </h3>
 
-<h3 align="center">Software Engineering Student @USJ | Focus on MLOps | Interested in Full Stack & Mobile App Development</h3>
+<h3 align="center">Software Engineering Undergraduate @USJ | Focus on MLOps | Full Stack & Mobile App Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wimansa-samudinee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wimansa-samudinee" />
