@@ -1,14 +1,21 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=👋Hi+I'm+Wimansa+Samudinee;Welcome+to+my+GitHub!;Aspiring+MLOps+Engineer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,24&height=180&section=header&text=👋Hi%20I'm%20Wimansa%20Samudinee!&fontSize=28&animation=fadeIn&fontColor=ffffff" alt="Animated Banner" />
 </h3>
 
+<h3 align="center">
+  <picture>
+    <!-- Dark Mode: Vibrant Orange -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10EBD5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+MLOps+Engineer;Full+Stack+Developer">
+    <!-- Light Mode: Deep Warm Accent -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10EBD5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+MLOps+Engineer;Full+Stack+Developer" alt="Typing SVG">
+  </picture>
+</h3>
 
-<h3 align="center">Software Engineering Student @USJ | Focus on MLOps | Interested in Full Stack </h3>
+<h3 align="center">Software Engineering Student @USJ | Focus on MLOps | Interested in Full Stack & Mobile App Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wimansa-samudinee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wimansa-samudinee" />
 </p>
-
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -62,8 +69,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
 </p>
 
-
-
 #### 🔧 Tools & Platforms:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
@@ -73,6 +78,15 @@
 </div>
 
 ---
+### 📅 Commit History & Contribution Graph
+
+<div align="center">
+  <!-- Interactive-style Commit Activity Chart -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wimansa-samudinee&theme=tokyo-night&hide_border=true&area=true" alt="wimansa-samudinee commit graph" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -104,7 +118,7 @@
   <a href="https://fb.com/wimansa.samudinee" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:nadeerasamudinee@gmail.com">
+  <a href="mailto:wimansasamudinee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/wimansa-samudinee" target="_blank">
@@ -119,9 +133,6 @@
 </p>
 
 <p align="center">
-  💙 Thanks for visiting! Let's build something amazing together! 💙
+  🧡 Thanks for visiting! Let's build something amazing together! 🧡
 </p>
-
-</p>
-
 
