@@ -5,9 +5,9 @@
 <h3 align="center">
   <picture>
     <!-- Dark Mode: Vibrant Orange -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10EBD5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+MLOps+Engineer;Full+Stack+Developer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10EBD5&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineering+Undergraduate;Full+Stack+Developer;Aspiring+DevOps+Engineer">
     <!-- Light Mode: Deep Warm Accent -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10EBD5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+MLOps+Engineer;Full+Stack+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10EBD5&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineering+Undergraduate;Full+Stack+Developer;Aspiring+DevOps+Engineer"" alt="Typing SVG">
   </picture>
 </h3>
 
