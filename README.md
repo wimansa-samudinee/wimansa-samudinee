@@ -11,7 +11,7 @@
   </picture>
 </h3>
 
-<h3 align="center">Software Engineering Undergraduate @USJ | Focus on MLOps | Full Stack & Mobile App Developer</h3>
+<h3 align="center">Software Engineering Undergraduate @USJ | Full Stack & Mobile App Developer | Aspiring DevOps Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wimansa-samudinee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wimansa-samudinee" />
@@ -21,14 +21,16 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **Software Engineering Student** passionate about system reliability and automation.
-- 🌱 Driven by the world of **MLOps** - bridging the gap between AI models and production.
-- ⚙️ Skilled in **Automated Testing** (Selenium, NUnit, POM) and software quality management.
-- 🔒 Actively exploring **Web Security & Penetration Testing** (Vulnerability scanning, DevSecOps).
-- 🚀 Aiming to build, deploy, and secure robust, scalable AI infrastructure.
+- 🎓 I'm a **Software Engineering undergraduate** at the **University of Sri Jayewardenepura**.
+- 💻 Passionate about **Full-Stack Development, Backend Engineering, and building practical software solutions**.
+- 🌱 Currently strengthening my **Software Engineering fundamentals** and development skills through hands-on projects.
+- ⚙️ Exploring **DevOps, Cloud Computing, CI/CD, and Infrastructure Automation**.
+- 🧪 Interested in **Software Testing, Automation, and Software Quality**.
+- 🔒 Exploring **Web Security and DevSecOps practices**.
+- 🚀 My current career direction is to grow as a **Software Engineer** while gradually building practical expertise in **DevOps and Cloud technologies**.
 - 📫 Reach me at **wimansasamudinee@gmail.com**
 - ⚡ Fun fact: **Call me Wima**
-- 🎯 2026 Goals: Master advanced MLOps pipelines while building impactful Full Stack projects.
+- 🎯 **2026 Goals:** Strengthen my Software Engineering skills, build impactful Full-Stack projects, and gain hands-on experience with DevOps and Cloud technologies.
 
 <br/>
 
@@ -38,7 +40,8 @@
 
 <div align="center">
 
-#### 🧠 Programming & Scripting:
+### 🧠 Programming & Scripting
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
@@ -47,7 +50,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
 </p>
 
-#### 🎨 Frontend Technologies:
+### 🎨 Frontend & Mobile
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
@@ -55,35 +59,119 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
 </p>
 
-#### ⚙️ Automation, DevOps & Security Tools:
+### ⚙️ Backend & APIs
+
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/394174/github.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
 </p>
 
-#### 🗄️ Databases & Backend:
+### 🗄️ Databases
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
 </p>
 
-#### 🔧 Tools & Platforms:
+### 🚀 DevOps & Development Tools
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/394174/github.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 </p>
 
 </div>
 
 ---
-### 📅 Commit History & Contribution Graph
+## 📚 Currently Learning
 
 <div align="center">
-  <!-- Interactive-style Commit Activity Chart -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wimansa-samudinee&theme=tokyo-night&hide_border=true&area=true" alt="wimansa-samudinee commit graph" />
+
+| Area | Focus |
+|------|-------|
+| 💻 Software Engineering | Software Design, Development & Best Practices |
+| 🌐 Full-Stack Development | Frontend, Backend & APIs |
+| 🚀 DevOps | CI/CD, Containers & Deployment |
+| ☁️ Cloud | Cloud Fundamentals & Cloud Deployment |
+| 🔧 Automation | Infrastructure & Development Automation |
+| 🧪 Testing | Automated Testing & Software Quality |
+| 🔒 Security | Web Security & DevSecOps Fundamentals |
+
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+Some of the projects I have worked on while developing my software engineering skills:
+
+### 🪙 AurumLK
+**Gold Loan Comparison & Management Platform**
+
+- Full-stack web application
+- React + TypeScript + Vite
+- Node.js + Express
+- PostgreSQL + Prisma
+- JWT Authentication
+- Role-based access control
+- GitHub Actions CI/CD
+- Deployment & cloud integration
+
+### 💊 MediNexus
+**Healthcare Management Platform**
+
+- React + TypeScript
+- Vite + Tailwind CSS
+- Responsive UI
+- Data visualization
+- Modern component-based architecture
+
+### 📱 Smart Prescription Reader
+**AI-Assisted Prescription Explanation Application**
+
+- Flutter + Dart
+- Firebase
+- Gemini API
+- Prescription text extraction
+- Medicine information and reminders
+
+---
+
+## 📅 My Development Journey
+
+```text
+Software Engineering
+        ↓
+Full-Stack Development
+        ↓
+Backend & API Development
+        ↓
+Testing & Software Quality
+        ↓
+DevOps Fundamentals
+        ↓
+CI/CD & Containers
+        ↓
+Cloud & Infrastructure
+        ↓
+Continuous Learning 🚀
+```
+---
+
+### 📅 Commit History & Contribution Graph
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wimansa-samudinee&theme=tokyo-night&hide_border=true&area=true" alt="wimansa-samudinee commit graph" /> </div>
 
 ---
 
