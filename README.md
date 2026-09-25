@@ -22,15 +22,24 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a **Software Engineering undergraduate** at the **University of Sri Jayewardenepura**.
+
 - 💻 Passionate about **Full-Stack Development, Backend Engineering, and building practical software solutions**.
-- 🌱 Currently strengthening my **Software Engineering fundamentals** and development skills through hands-on projects.
+
+- 🌱 Currently strengthening my **Software Engineering skills** through hands-on projects and continuous learning.
+
 - ⚙️ Exploring **DevOps, Cloud Computing, CI/CD, and Infrastructure Automation**.
+
 - 🧪 Interested in **Software Testing, Automation, and Software Quality**.
-- 🔒 Exploring **Web Security and DevSecOps practices**.
+
+- 🔒 Exploring **Web Security and DevSecOps concepts**.
+
 - 🚀 My current career direction is to grow as a **Software Engineer** while gradually building practical expertise in **DevOps and Cloud technologies**.
+
 - 📫 Reach me at **wimansasamudinee@gmail.com**
+
 - ⚡ Fun fact: **Call me Wima**
-- 🎯 **2026 Goals:** Strengthen my Software Engineering skills, build impactful Full-Stack projects, and gain hands-on experience with DevOps and Cloud technologies.
+
+- 🎯 **Goals:** Strengthen my Software Engineering skills, build impactful Full-Stack projects, and gain hands-on experience with DevOps and Cloud technologies.
 
 <br/>
 
